@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yusuf! <br/><a href="https://github.com/joshmadakor1">Programmer, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Yusuf! <br/><a href="https://github.com/nymyusuf">Programmer </a></h1>
 
 <h2>Software Development Projects:</h2>
 
