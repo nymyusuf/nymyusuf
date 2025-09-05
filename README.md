@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yusuf! <br/><a href="https://github.com/nymyusuf">Programmer </a></h1>
+<h1>Hi, I'm Yusuf! <br/></h1>
 
 <h2>Software Development Projects:</h2>
 
